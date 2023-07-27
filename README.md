@@ -23,10 +23,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop design
-![](Images/desktop-design.jpg)
+![](<Images/Screenshot Four-card-feature-section-Desktop.png>)
 
 Mobile design
-![](Images/mobile-design.jpg)
+![](<Images/Screenshot Four-card-feature-section-Mobile.png>)
 
 ### Links
 

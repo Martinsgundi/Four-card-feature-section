@@ -88,6 +88,11 @@ body {
     height: 225px;
     position: relative;
     overflow: hidden;
+    transition: transform 1s ease;
+}
+
+.card:hover {
+    transform: scale(1.1);
 }
 
 .cyan-card::before {

@@ -22,16 +22,16 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop design
 ![](<Images/Screenshot Four-card-feature-section-Desktop.png>)
 
-Mobile design
+
 ![](<Images/Screenshot Four-card-feature-section-Mobile.png>)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-fourcardfeaturesection-used-flexbox-for-the-layout-IAzmyX6lZT)
+- Live Site URL: [Live Site](https://martinsgundi.github.io/Four-card-feature-section/)
 
 ### Built with
 
@@ -54,4 +54,4 @@ I will love to strenghten my knowledge on CSS grid and use it to design nice res
 - LinkedIn - [Martins Ogundipe](https://www.linkedin.com/in/martinsgundi)
 - Frontend Mentor - [@Martinsgundi](https://www.frontendmentor.io/profile/Martinsgundi)
 - Twitter - [@Martinsgundi1](https://www.twitter.com/martinsgundi1)
-- Github  - [@Martinsgund](https://www.github.com/martinsgundi)
+- Github  - [@Martinsgundi](https://www.github.com/martinsgundi)
